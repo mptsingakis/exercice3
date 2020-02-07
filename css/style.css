@@ -5,6 +5,12 @@ h1{
     font-size: 3em;
 }
 header{
-    border: 1px black;
+    border: 1px solid black;
     background-color: rgb(199, 195, 195);
+}
+footer{
+    border: 1px solid black;
+}
+main{
+    border: 1px solid black;
 }
